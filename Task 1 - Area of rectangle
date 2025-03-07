@@ -1,4 +1,1 @@
-// Function area rectangle (length, width) {
-   return length + widht;
-}
-console.log (areaRectangle (5,3));
+
