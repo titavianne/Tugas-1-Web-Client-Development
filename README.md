@@ -1,4 +1,4 @@
-# Task-1-Web-Client-Development
+# Web-Client-Development
 Prerequisite assignment from class Web Client Development - Semester 2
 
 This project is a simple implementation to calculate using JavaScript.
